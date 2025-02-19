@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.sp-shd-btn{
+  box-shadow: -4px 4px black;
+}
+.sp-shd-btn:active{
+  box-shadow: -2px 2px black;
+}
+.sp-shd-input{
+  box-shadow: -6px 6px black;
+}
+.bg-secondary{
+  background-color: #f6f6f6;
+}
