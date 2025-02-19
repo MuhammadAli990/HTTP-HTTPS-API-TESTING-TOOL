@@ -2,7 +2,7 @@
 
 This is a web application that allows users to send HTTP/S requests to an API. You can define the URL, query parameters, headers, and JSON body, then send the request using `axios`. The response is displayed with details such as the status code, time taken, data size, response body, and response headers.
 
-![Screenshot](./public/screenshot.png)
+![Screenshot](./public/screenShot.png)
 
 ## Features ✨
 - **Define URL**: Enter the API endpoint URL.
